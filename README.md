@@ -1,16 +1,11 @@
-### Hi there 👋
+👋 Hi, I'm @MuriloGracianoBR
+👀 I'm passionate about Front End Development
+🌱 I'm currently expanding my knowledge in Development and Computer Engineering
+💞️ I'm eager to collaborate on exciting projects
+📚 Constantly learning and exploring new technologies
+💼 Open to new opportunities and challenges
+🔎 How to reach me:
+📧 Email: murilogracianobr@gmail.com
+🔗 LinkedIn: https://www.linkedin.com/in/murilo-graciano/
 
-<!--
-**MuriloGracianoBR/MuriloGracianoBR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⚡ Fun fact: I'm a huge fan of coffee and enjoy coding with a fresh brew by my side!
